@@ -1,5 +1,3 @@
-Markdown
-
 - Desafio Indicium - Pipeline de Dados com Meltano, Airflow e PostgreSQL
 
 Este projeto implementa um pipeline de dados utilizando Meltano, Airflow (Astro), PostgreSQL e Docker para extrair, transformar e carregar dados de diferentes fontes, gerando um arquivo CSV com os resultados de uma consulta específica.
